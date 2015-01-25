@@ -7,7 +7,7 @@ Author:      Murilo Monteiro, send-me some @ at https://twitter.com/8vw
 
 Current      Version: 1.0 beta (Initial Version)
 
-Depedences:  To properly run S0nar you need: Curl, xdg-open, python, wafw00f, Nmap and Fierce installed.
+Depedences:  To properly run s0nar you need: curl, xdg-open, python, wafw00f, Nmap and Fierce installed. ( i will always put news tools here)...
 
 I will not respond by YOUR ACTS and Every tool used here have they LEGAL warnings and "copyright" stuff, so... read the manuals and OBEY.
 
