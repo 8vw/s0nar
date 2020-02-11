@@ -25,7 +25,7 @@ banner
 
 echo " [*] Getting your external IP Address, FYI..."
 
-curl ifconfig.me/host
+curl ifconfig.me
 
 echo  -e " [*] ⇈ This is you. It's always good to know."
 
