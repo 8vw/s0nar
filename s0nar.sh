@@ -111,9 +111,9 @@ echo -e '\e[33;1m [*] Nmaping... \e[m' $alvo
 
 sudo nmap -A -sS -n -Pn $alvo 
 
-echo -e '\e[33;1m [*] Searching subdomains with Fierce on: \e[m' $alvo
+echo -e '\e[33;1m [*] Slow searching subdomains with subbrute on:' $alvo 'this gonna take a while'
 
-./fierce.pl -dns $alvo -wordlist subdomains.txt -threads 4
+./subbrute.py $alvo
 
 echo -e '\e[33;1m [-] ) ) ) S0nar is over.'
 
